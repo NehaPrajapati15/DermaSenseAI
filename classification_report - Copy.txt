@@ -1,0 +1,16 @@
+SKIN CANCER CLASSIFICATION REPORT
+Date: 2025-05-18 01:16:27
+
+              precision    recall  f1-score   support
+
+       akiec       0.41      0.65      0.50        65
+         bcc       0.42      0.82      0.56       103
+         bkl       0.48      0.62      0.54       220
+          df       0.32      0.78      0.46        23
+         mel       0.36      0.49      0.41       223
+          nv       0.96      0.72      0.82      1341
+        vasc       0.40      0.82      0.53        28
+
+    accuracy                           0.68      2003
+   macro avg       0.48      0.70      0.55      2003
+weighted avg       0.78      0.68      0.71      2003
